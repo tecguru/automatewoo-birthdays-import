@@ -9,5 +9,5 @@ userid,yyyy-mm-dd
 Run the php file from CLI
 
 ```
-php dates-import.php
+php date-import.php
 ```
